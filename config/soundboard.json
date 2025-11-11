@@ -1,0 +1,10 @@
+{
+    "dark_mode": false,
+    "board_columns": 3,
+    "audio_provider": "STREAM",
+    "audio_volume": 1.0,
+    "cobalt_api_endpoint": "https://api.cobalt.tools",
+    "cobalt_api_version": "V7",
+    "cobalt_api_token": "",
+    "favourites": []
+}

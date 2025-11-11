@@ -1,0 +1,657 @@
+{
+  "selections": {
+    "mode": "SIMPLE"
+  },
+  "placements": {
+    "placements": [
+      {
+        "schematic": "C:\\Users\\maxjb\\curseforge\\minecraft\\Instances\\botc\\schematics\\Shack no int.litematic",
+        "name": "\"Shack\" no int",
+        "origin": [
+          172,
+          126,
+          -10
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16757504,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "\"Shack\" no int",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "\"Shack\" no int",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\maxjb\\curseforge\\minecraft\\Instances\\botc\\schematics\\House.litematic",
+        "name": "House",
+        "origin": [
+          145,
+          95,
+          4
+        ],
+        "rotation": "CLOCKWISE_90",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 8404597,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "House",
+            "placement": {
+              "pos": [
+                0,
+                57,
+                21
+              ],
+              "name": "House",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\maxjb\\curseforge\\minecraft\\Instances\\botc\\schematics\\Big House.litematic",
+        "name": "Big House",
+        "origin": [
+          157,
+          102,
+          24
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16738304,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Big House",
+            "placement": {
+              "pos": [
+                40,
+                0,
+                0
+              ],
+              "name": "Big House",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\maxjb\\curseforge\\minecraft\\Instances\\botc\\schematics\\Small Tower.litematic",
+        "name": "Small Tower",
+        "origin": [
+          206,
+          95,
+          -43
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 10927575,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Small Tower",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                22
+              ],
+              "name": "Small Tower",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\maxjb\\curseforge\\minecraft\\Instances\\botc\\schematics\\Smol L House.litematic",
+        "name": "Smol L House",
+        "origin": [
+          142,
+          102,
+          -7
+        ],
+        "rotation": "CLOCKWISE_180",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 12648480,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Smol L House",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                23
+              ],
+              "name": "Smol L House",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\maxjb\\curseforge\\minecraft\\Instances\\botc\\schematics\\Smol triangle House.litematic",
+        "name": "Smol triangle House",
+        "origin": [
+          169,
+          152,
+          -71
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 13541986,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Smol triangle House",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                20
+              ],
+              "name": "Smol triangle House",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\maxjb\\curseforge\\minecraft\\Instances\\botc\\schematics\\Smol X House.litematic",
+        "name": "Smol L House",
+        "origin": [
+          270,
+          123,
+          -65
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 8482918,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Smol L House",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                36
+              ],
+              "name": "Smol L House",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\maxjb\\curseforge\\minecraft\\Instances\\botc\\schematics\\Thin Boi.litematic",
+        "name": "Thin Boi",
+        "origin": [
+          100,
+          103,
+          -23
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 32052,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Thin Boi",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                34
+              ],
+              "name": "Thin Boi",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\maxjb\\curseforge\\minecraft\\Instances\\botc\\schematics\\Cemetary.litematic",
+        "name": "Cemetary",
+        "origin": [
+          157,
+          102,
+          -25
+        ],
+        "rotation": "COUNTERCLOCKWISE_90",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 5453690,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Cemetary",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "Cemetary",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\maxjb\\curseforge\\minecraft\\Instances\\botc\\schematics\\Church.litematic",
+        "name": "Church",
+        "origin": [
+          244,
+          103,
+          18
+        ],
+        "rotation": "CLOCKWISE_180",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16152206,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Church",
+            "placement": {
+              "pos": [
+                37,
+                0,
+                0
+              ],
+              "name": "Church",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\maxjb\\curseforge\\minecraft\\Instances\\botc\\schematics\\Farmers House.litematic",
+        "name": "Farmers House",
+        "origin": [
+          246,
+          104,
+          41
+        ],
+        "rotation": "CLOCKWISE_180",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 21386,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Farmers House",
+            "placement": {
+              "pos": [
+                0,
+                10,
+                19
+              ],
+              "name": "Farmers House",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\maxjb\\curseforge\\minecraft\\Instances\\botc\\schematics\\Windmill.litematic",
+        "name": "Windmill",
+        "origin": [
+          242,
+          104,
+          58
+        ],
+        "rotation": "COUNTERCLOCKWISE_90",
+        "mirror": "LEFT_RIGHT",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16743004,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Windmill",
+            "placement": {
+              "pos": [
+                15,
+                0,
+                0
+              ],
+              "name": "Windmill",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\maxjb\\curseforge\\minecraft\\Instances\\botc\\schematics\\Bakery.litematic",
+        "name": "Bakery",
+        "origin": [
+          203,
+          103,
+          31
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16748032,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Bakery",
+            "placement": {
+              "pos": [
+                13,
+                0,
+                0
+              ],
+              "name": "Bakery",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\maxjb\\curseforge\\minecraft\\Instances\\botc\\schematics\\GrainMill.litematic",
+        "name": "GrainMill",
+        "origin": [
+          292,
+          103,
+          11
+        ],
+        "rotation": "CLOCKWISE_180",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 11741265,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "GrainMill",
+            "placement": {
+              "pos": [
+                16,
+                0,
+                0
+              ],
+              "name": "GrainMill",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\maxjb\\curseforge\\minecraft\\Instances\\botc\\schematics\\Family home (Cottage).litematic",
+        "name": "Family home (Cottage?)",
+        "origin": [
+          179,
+          120,
+          -115
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16041984,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Family home (Cottage?)",
+            "placement": {
+              "pos": [
+                0,
+                14,
+                19
+              ],
+              "name": "Family home (Cottage?)",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\maxjb\\curseforge\\minecraft\\Instances\\botc\\schematics\\Family home 2 (Cottage).litematic",
+        "name": "Family home 2 (Cottage?)",
+        "origin": [
+          255,
+          97,
+          17
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 9677312,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Family home 2 (Cottage?)",
+            "placement": {
+              "pos": [
+                18,
+                0,
+                0
+              ],
+              "name": "Family home 2 (Cottage?)",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ],
+    "selected": 14,
+    "origin_selected": true
+  },
+  "schematic_projects_manager": {},
+  "operation_mode": "PASTE_SCHEMATIC",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "y",
+    "layer_single": 0,
+    "layer_above": 0,
+    "layer_below": 0,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "Big House",
+    "current": "Big House",
+    "boxes": [
+      {
+        "pos1": [
+          133,
+          103,
+          -2
+        ],
+        "pos2": [
+          133,
+          103,
+          -2
+        ],
+        "name": "Big House"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  },
+  "block_entities": {}
+}

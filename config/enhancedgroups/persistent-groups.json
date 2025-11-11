@@ -1,0 +1,158 @@
+[
+  {
+    "name": "~ House 01",
+    "type": "ISOLATED",
+    "hidden": false,
+    "id": "a7232d25-5de8-443a-b4a7-6d103b535200"
+  },
+  {
+    "name": "~ House 02",
+    "type": "ISOLATED",
+    "hidden": false,
+    "id": "a2de5915-acab-40aa-b25e-354b4bc099dc"
+  },
+  {
+    "name": "~ House 03",
+    "type": "ISOLATED",
+    "hidden": false,
+    "id": "6ac2ee1a-a5f7-4b54-9d2f-24eb006817df"
+  },
+  {
+    "name": "~ House 04",
+    "type": "ISOLATED",
+    "hidden": false,
+    "id": "4abf7c38-c686-491e-aebf-8e533f049962"
+  },
+  {
+    "name": "~ House 05",
+    "type": "ISOLATED",
+    "hidden": false,
+    "id": "3da9cc6b-365e-4609-912e-30ede116faf6"
+  },
+  {
+    "name": "~ House 06",
+    "type": "ISOLATED",
+    "hidden": false,
+    "id": "bdd5a555-467d-4063-b71a-f3b8131b2e66"
+  },
+  {
+    "name": "~ House 07",
+    "type": "ISOLATED",
+    "hidden": false,
+    "id": "0dc349f5-af8c-4112-8bf7-4e0590ba95f9"
+  },
+  {
+    "name": "~ House 08",
+    "type": "ISOLATED",
+    "hidden": false,
+    "id": "6554ac08-f802-428b-95fd-d02ce3321b5d"
+  },
+  {
+    "name": "~ House 09",
+    "type": "ISOLATED",
+    "hidden": false,
+    "id": "e9ef6a41-c676-455c-a4fc-13df2c2e7962"
+  },
+  {
+    "name": "~ House 10",
+    "type": "ISOLATED",
+    "hidden": false,
+    "id": "11759756-d0b6-4a9d-8548-f94ab299f1a4"
+  },
+  {
+    "name": "~ House 11",
+    "type": "ISOLATED",
+    "hidden": false,
+    "id": "84688d54-b1ee-49cb-aae4-6824a5f8ce72"
+  },
+  {
+    "name": "~ House 12",
+    "type": "ISOLATED",
+    "hidden": false,
+    "id": "a2d118b3-7303-49d2-8bdb-32ffdec979bb"
+  },
+  {
+    "name": "Cemetary",
+    "type": "ISOLATED",
+    "hidden": false,
+    "id": "62663402-8c16-4606-b3c2-0d84b65b4ef5"
+  },
+  {
+    "name": "Tavern",
+    "type": "ISOLATED",
+    "hidden": false,
+    "id": "16e54d1a-749f-4831-8909-2461dc902bab"
+  },
+  {
+    "name": "Library",
+    "type": "ISOLATED",
+    "hidden": false,
+    "id": "690d66b5-2cbd-4205-b695-e5297293786f"
+  },
+  {
+    "name": "Blacksmith",
+    "type": "ISOLATED",
+    "hidden": false,
+    "id": "24d9c207-0f33-4636-ab81-94b0ede43f08"
+  },
+  {
+    "name": "Crematorium",
+    "type": "ISOLATED",
+    "hidden": false,
+    "id": "1865088c-5fc5-4416-8953-bc50937c01e3"
+  },
+  {
+    "name": "Church",
+    "type": "ISOLATED",
+    "hidden": false,
+    "id": "0ae54c03-e3aa-4005-ac01-7032847d8b7b"
+  },
+  {
+    "name": "Clocktower",
+    "type": "ISOLATED",
+    "hidden": false,
+    "id": "2120c828-4028-421e-b2e4-f0f5864c560c"
+  },
+  {
+    "name": "~ Town Square",
+    "type": "OPEN",
+    "hidden": false,
+    "id": "dafeb0d7-b9df-4a1e-8937-552b70f7de31"
+  },
+  {
+    "name": "Nightclub",
+    "type": "ISOLATED",
+    "hidden": false,
+    "id": "2b60edee-01d7-4f8f-943e-ae5670361cb1"
+  },
+  {
+    "name": "Storyteller Den",
+    "type": "ISOLATED",
+    "hidden": false,
+    "id": "af439513-83e6-40a8-b64c-b67728160c0e"
+  },
+  {
+    "name": "~ House 13",
+    "type": "ISOLATED",
+    "hidden": false,
+    "id": "a16747c7-0fb6-4802-ba15-225f4ad95e74"
+  },
+  {
+    "name": "~ House 14",
+    "type": "ISOLATED",
+    "hidden": false,
+    "id": "66561dc7-f68b-45d7-a317-5ea37d0b60da"
+  },
+  {
+    "name": "~ House 15",
+    "type": "ISOLATED",
+    "hidden": false,
+    "id": "f8eeeb26-049d-4565-bd77-d50031bdb838"
+  },
+  {
+    "name": "~ House 16",
+    "type": "ISOLATED",
+    "hidden": false,
+    "id": "46b57131-4222-4c65-a819-a9857767b688"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "joel4848",
+      "uniqueId": "ffef194a-aba5-4063-a7fa-055c2cf07e10"
+    },
+    "time": 1757129466827,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/5Sh3CcryMn"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "joel4848",
+      "uniqueId": "ffef194a-aba5-4063-a7fa-055c2cf07e10"
+    },
+    "time": 1757128827755,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/bglQpRXbus"
+    }
+  }
+]

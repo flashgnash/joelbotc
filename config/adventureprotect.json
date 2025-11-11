@@ -1,0 +1,20 @@
+{
+  "DisableTrapdoorInteraction": true,
+  "DisableFlowerpotInteraction": true,
+  "DisableChestInteraction": true,
+  "DisableBarrelInteraction": true,
+  "DisableItemFrameInteraction": true,
+  "DisableEaselInteraction": true,
+  "DisablePlacedCanvasInteraction": true,
+  "DisablePlacedPhotographInteraction": true,
+  "DisablePaintingInteraction": true,
+  "DisableBrewingStandInteraction": true,
+  "DisableNoteBlockInteraction": true,
+  "DisableJukeboxInteraction": true,
+  "DisableDecoratedPotInteraction": true,
+  "DisableArmourStandRemoveItems": true,
+  "DisableArmourStandPlaceItems": true,
+  "DisableArmourStandReplaceItems": true,
+  "DisableShulkerBoxInteraction": true,
+  "DisableXercaMusicInteraction": true
+}

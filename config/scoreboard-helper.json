@@ -1,0 +1,13 @@
+{
+  "show_scoreboard": true,
+  "show_sidebar_score": true,
+  "score_sorting_method": "by_score_descending",
+  "max_show_count": 16,
+  "sidebar_position": "right",
+  "sidebar_y_offset": 0,
+  "sidebar_background_opacity": 0.3,
+  "sidebar_background_title_opacity": 0.4,
+  "sidebar_text_opacity": 1.0,
+  "sidebar_title_text_opacity": 1.0,
+  "default_team_chat": false
+}

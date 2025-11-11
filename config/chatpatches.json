@@ -1,0 +1,11 @@
+{
+  "time": false,
+  "timeSystemMessages": false,
+  "hover": false,
+  "counter": false,
+  "boundary": false,
+  "chatlog": false,
+  "nameFormat": "$:",
+  "search": false,
+  "searchDrafting": false
+}

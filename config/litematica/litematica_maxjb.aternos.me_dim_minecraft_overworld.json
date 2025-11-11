@@ -1,0 +1,315 @@
+{
+  "selections": {
+    "mode": "SIMPLE"
+  },
+  "placements": {
+    "placements": [
+      {
+        "schematic": "C:\\Users\\maxjb\\curseforge\\minecraft\\Instances\\botc\\schematics\\Family home 2 (Cottage).litematic",
+        "name": "Family home 2 (Cottage?)",
+        "origin": [
+          164,
+          104,
+          -73
+        ],
+        "rotation": "CLOCKWISE_90",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16757504,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Family home 2 (Cottage?)",
+            "placement": {
+              "pos": [
+                18,
+                0,
+                0
+              ],
+              "name": "Family home 2 (Cottage?)",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\maxjb\\curseforge\\minecraft\\Instances\\botc\\schematics\\Fancy House empt.litematic",
+        "name": "Fancy House? empt",
+        "origin": [
+          92,
+          96,
+          95
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16738304,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Fancy House? empt",
+            "placement": {
+              "pos": [
+                22,
+                0,
+                0
+              ],
+              "name": "Fancy House? empt",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\maxjb\\curseforge\\minecraft\\Instances\\botc\\schematics\\Smol Fancy House empt.litematic",
+        "name": "Smol Fancy House? empt",
+        "origin": [
+          233,
+          104,
+          -55
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 10927575,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Smol Fancy House? empt",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "Smol Fancy House? empt",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\maxjb\\curseforge\\minecraft\\Instances\\botc\\schematics\\Smol triangle House.litematic",
+        "name": "Smol triangle House",
+        "origin": [
+          238,
+          105,
+          -23
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 12648480,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Smol triangle House",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                20
+              ],
+              "name": "Smol triangle House",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\maxjb\\curseforge\\minecraft\\Instances\\botc\\schematics\\Smith (Cottage).litematic",
+        "name": "Smith (Cottage?)",
+        "origin": [
+          282,
+          105,
+          25
+        ],
+        "rotation": "CLOCKWISE_90",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 32052,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Smith (Cottage?)",
+            "placement": {
+              "pos": [
+                0,
+                11,
+                14
+              ],
+              "name": "Smith (Cottage?)",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\maxjb\\curseforge\\minecraft\\Instances\\botc\\schematics\\Boulevardier\u0027s_Cyan_House_Pack_Medium.litematic",
+        "name": "Boulevardier\u0027s_Cyan_House_Pack_Medium",
+        "origin": [
+          124,
+          92,
+          59
+        ],
+        "rotation": "CLOCKWISE_180",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 8404597,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Unnamed",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "Unnamed",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\maxjb\\curseforge\\minecraft\\Instances\\botc\\schematics\\Boulevardier\u0027s_Cyan_House_Pack_Small.litematic",
+        "name": "Boulevardier\u0027s_Cyan_House_Pack_Small",
+        "origin": [
+          128,
+          93,
+          63
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 8482918,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Unnamed",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "Unnamed",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ],
+    "selected": 6,
+    "origin_selected": true
+  },
+  "schematic_projects_manager": {},
+  "operation_mode": "AREA_SELECTION",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "y",
+    "layer_single": 0,
+    "layer_above": 0,
+    "layer_below": 0,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "Smol Fancy House? empt",
+    "current": "Smol Fancy House? empt",
+    "boxes": [
+      {
+        "pos1": [
+          341,
+          177,
+          12
+        ],
+        "pos2": [
+          341,
+          177,
+          12
+        ],
+        "name": "Smol Fancy House? empt"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  },
+  "block_entities": {}
+}
