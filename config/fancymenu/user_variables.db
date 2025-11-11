@@ -8,7 +8,7 @@ variable {
 
 variable {
   name = new_highest_vote_tally
-  value = 5
+  value = 
   reset_on_launch = false
 }
 
@@ -32,7 +32,7 @@ variable {
 
 variable {
   name = player_11_colour
-  value = &f
+  value = &8
   reset_on_launch = false
 }
 
@@ -50,7 +50,7 @@ variable {
 
 variable {
   name = player_10_colour
-  value = &f
+  value = &8
   reset_on_launch = false
 }
 
@@ -86,7 +86,7 @@ variable {
 
 variable {
   name = timer_seconds_custom
-  value = 13
+  value = 39
   reset_on_launch = false
 }
 
@@ -170,7 +170,7 @@ variable {
 
 variable {
   name = test
-  value = "joel4848"
+  value = hello
   reset_on_launch = false
 }
 
@@ -230,7 +230,7 @@ variable {
 
 variable {
   name = player_count
-  value = 11
+  value = 8
   reset_on_launch = false
 }
 
@@ -349,6 +349,12 @@ variable {
 }
 
 variable {
+  name = town_name
+  value = the Gurtwood
+  reset_on_launch = false
+}
+
+variable {
   name = player_6_username
   value =  ‌
   reset_on_launch = false
@@ -404,7 +410,7 @@ variable {
 
 variable {
   name = player_9_colour
-  value = &f
+  value = &8
   reset_on_launch = false
 }
 
@@ -495,6 +501,12 @@ variable {
 variable {
   name = player_5_colour
   value = &f
+  reset_on_launch = false
+}
+
+variable {
+  name = new_town_name
+  value = 
   reset_on_launch = false
 }
 
