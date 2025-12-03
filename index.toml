@@ -1497,7 +1497,3 @@ metafile = true
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "42b8a59616b3ed15a02e55466dff7ab400d481a8730949ce0168a927b71b91fb"
 metafile = true
-
-[[files]]
-file = "servers.dat"
-hash = "7e7fcddbef199721170b4a06c0225ddc186e8d2557414e1d0cfe1801d59f1f01"
