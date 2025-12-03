@@ -78,7 +78,7 @@ clean: preClean postClean
 all: preClean curseforge modrinth multimc technic server postClean
 
 refresh:
-	cd && packwiz refresh
+	packwiz refresh
 
 update-packwiz:
 	go install github.com/packwiz/packwiz@latest
@@ -98,7 +98,7 @@ release-file: build
 	@echo "</details>" >> .build/CHANGELOG.md
 
 run-server:
-	@cd && pw refresh
+	@pw refresh
 	@mkdir -p .run
 	@echo "eula=true" > .run/eula.txt
 	@mc-server-icon --icon icon.png --output .run/server-icon.png
