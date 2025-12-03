@@ -37,7 +37,9 @@ jobs:
       - name: Make Modlist
         run: make release-file
 
-      - name: Upload artifact
-        uses: softprops/action-gh-release@v2
+      - name: Create Release
+        uses: ncipollo/release-action@v1
         with:
-          files: ".build/*"
+          artifacts: ".build/*"
+          allowUpdates: true
+          bodyFile: ".build/CHANGELOG.md"
