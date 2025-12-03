@@ -1,0 +1,13 @@
+name = "GK1H Extras"
+filename = "gk1hextras-fabric-1.21.1-21.1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fdd69b70e8740da15dd47d2321a91c7a560bfe24"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7272914
+project-id = 1389898

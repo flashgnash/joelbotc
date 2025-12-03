@@ -1,0 +1,13 @@
+name = "GK1H Core"
+filename = "gk1hcore-fabric-1.21.1-21.1.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5c9dfaa9e9586fb50603017c52e2084739338d09"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7272599
+project-id = 1384685

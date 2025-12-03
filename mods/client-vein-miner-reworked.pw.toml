@@ -1,0 +1,13 @@
+name = "Client Vein Miner Reworked [Fabric/Forge]"
+filename = "ClientVeinMinerReworked-fabric-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "89eb958c2992b530f817c178089dd2b21de50451"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7008085
+project-id = 1348153

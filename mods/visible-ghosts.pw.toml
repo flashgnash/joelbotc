@@ -1,0 +1,13 @@
+name = "Visible Ghosts"
+filename = "visible-ghosts-1.4.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/YIuROE8p/versions/q96SVv7n/visible-ghosts-1.4.0.jar"
+hash-format = "sha512"
+hash = "07454218267bdd88622c31142938aa15923d3e7980a73e97d7041e552affd17cc0d06c9d402f83c81611642df055bd8e16736507500051ac1699f3efbf533828"
+
+[update]
+[update.modrinth]
+mod-id = "YIuROE8p"
+version = "q96SVv7n"

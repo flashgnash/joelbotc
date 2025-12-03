@@ -1,0 +1,13 @@
+name = "Aesthetic Frames"
+filename = "aestheticframes-1.21.1_fabric_v.2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/x2YQH6vK/versions/cD5IH2ke/aestheticframes-1.21.1_fabric_v.2.0.0.jar"
+hash-format = "sha512"
+hash = "cb43f5c73aa08512f4ce64e4c64cb9fc53afd465581d883248d72c6d7b33bd4f23dcd32e0ab80061a0adf4c76fc1a0ed304e5d26ad2f6de992817606fc91b4ca"
+
+[update]
+[update.modrinth]
+mod-id = "x2YQH6vK"
+version = "cD5IH2ke"

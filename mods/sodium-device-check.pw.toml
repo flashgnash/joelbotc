@@ -1,0 +1,13 @@
+name = "Sodium/Embeddium Device Check 钠/铷-设备检测"
+filename = "sodium-device-check-fabric-4.2.9.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6cp26sMV/versions/qcnGIqtt/sodium-device-check-fabric-4.2.9.1.jar"
+hash-format = "sha512"
+hash = "575e3cd59be319f332a300c6c6f71c1b1fb4fa0b6d10ec6adc104ee2fd67c361240562c9f1912bc8da0afbcbb8b24ea33cc19c68fb3132e16c6468d7375660d5"
+
+[update]
+[update.modrinth]
+mod-id = "6cp26sMV"
+version = "qcnGIqtt"

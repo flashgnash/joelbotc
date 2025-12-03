@@ -1,0 +1,13 @@
+name = "Void Block"
+filename = "void-block-fabric-1.21.1-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zxJLEv5q/versions/Eprnke8N/void-block-fabric-1.21.1-1.1.0.jar"
+hash-format = "sha512"
+hash = "c9d034f71042ba04bfda4bf0c8664b34d2ed95593157fc887601472383439674753a705aa02fdeade09ae7ffb49336867407e0b1bfd02b280be5c9cdce5e8217"
+
+[update]
+[update.modrinth]
+mod-id = "zxJLEv5q"
+version = "Eprnke8N"

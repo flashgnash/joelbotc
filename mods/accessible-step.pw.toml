@@ -1,13 +1,13 @@
 name = "Accessible Step"
 filename = "accessible-step-fabric-mc1.21.1-2.1.0+1.21.1.jar"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "01964e4ee9e08c37d69dad5fe9733e217e4ab347"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/z6d6n7ve/versions/Aw3IjzlB/accessible-step-fabric-mc1.21.1-2.1.0%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "7e65722f8d6652ad5e7153551503d8bf81fc56e228de65ca9f5769036183b021a2e87548133032ad868ef81eabe80c1fd5d7715d83a5520270243bff8c7930a0"
 
 [update]
-[update.curseforge]
-file-id = 6435152
-project-id = 1044724
+[update.modrinth]
+mod-id = "z6d6n7ve"
+version = "Aw3IjzlB"

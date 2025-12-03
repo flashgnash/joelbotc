@@ -1,0 +1,13 @@
+name = "ColoredWater"
+filename = "colored_water-fabric-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/URKqRflb/versions/wWk8428F/colored_water-fabric-1.21.1.jar"
+hash-format = "sha512"
+hash = "3e73aade1430efb85a1c0817437375bb2f5c732ada2b2365d0ecd888428a0596d9ddab54f5a079b57fb2ec723e980282d10af6ecea1374ce7e8b3a61112db346"
+
+[update]
+[update.modrinth]
+mod-id = "URKqRflb"
+version = "wWk8428F"
