@@ -23,24 +23,24 @@ build: refresh
 
 curseforge: build
 	@echo "Making Curseforge pack"
-	packwiz curseforge export --pack-file .minecraft/pack.toml
+	packwiz curseforge export --pack-file pack.toml
 	mv ./*.zip ./.build/${PACKNAME}-curseforge.zip
 
 modrinth: build
 	@echo "Making Modrinth pack"
-	packwiz modrinth export --pack-file .minecraft/pack.toml
+	packwiz modrinth export --pack-file pack.toml
 	mv ./*.mrpack ./.build/${PACKNAME}-modrinth.mrpack
 
 multimc: build
 	@echo "Making MultiMC pack"
-	cp .minecraft/icon.png ./${ICONNAME}_icon.png
+	cp icon.png ./${ICONNAME}_icon.png
 	7z d .build/${PACKNAME}-multimc.zip ./* -r
-	7z d .build/${PACKNAME}-multimc.zip ./.minecraft -r
+	7z d .build/${PACKNAME}-multimc.zip ./ -r
 	@sed -i 's#{PACKURL}#$(shell pw detect)#g' instance.cfg
 	@sed -i 's#{ICONNAME}#${ICONNAME}#g' instance.cfg
 	7z a .build/${PACKNAME}-multimc.zip ./* -r
-	7z a .build/${PACKNAME}-multimc.zip ./.minecraft -r
-	7z d .build/${PACKNAME}-multimc.zip ./.build ./.minecraft/mods ./.minecraft/pack.toml ./.minecraft/index.toml -r
+	7z a .build/${PACKNAME}-multimc.zip ./ -r
+	7z d .build/${PACKNAME}-multimc.zip ./.build ./mods ./pack.toml ./index.toml -r
 	rm ./${ICONNAME}_icon.png
 	@sed -i 's#$(shell pw detect)#{PACKURL}#g' instance.cfg
 	@sed -i 's#${ICONNAME}#{ICONNAME}#g' instance.cfg
@@ -49,9 +49,9 @@ technic: build
 	@echo "Making Technic pack"
 	@mkdir -p .technic
 	-rm -rf .technic
-	cp -r .minecraft .technic
-	cp .minecraft/icon.png .technic/icon.png
-	cd .technic && java -jar ../.minecraft/packwiz-installer-bootstrap.jar ../.minecraft/pack.toml && cd ..
+	cp -r .technic
+	cp icon.png .technic/icon.png
+	cd .technic && java -jar ../packwiz-installer-bootstrap.jar ../pack.toml && cd ..
 	-rm -rf .technic/packwiz* .technic/index.toml .technic/pack.toml .technic/mods/*.toml
 	7z d .build/${PACKNAME}-technic.zip ./* ./.* -r
 	7z a .build/${PACKNAME}-technic.zip ./.technic/* -r
@@ -60,8 +60,8 @@ server: build
 	@echo "Making Server pack"
 	-rm -rf .server
 	@mkdir -p .server
-	mc-server-icon --icon .minecraft/icon.png --output .server/server-icon.png
-	cd .server && java -jar ../.minecraft/packwiz-installer-bootstrap.jar -s server ../.minecraft/pack.toml && cd ..
+	mc-server-icon --icon icon.png --output .server/server-icon.png
+	cd .server && java -jar ../packwiz-installer-bootstrap.jar -s server ../pack.toml && cd ..
 	7z d .build/${PACKNAME}-server.zip ./* ./.* -r
 	7z a .build/${PACKNAME}-server.zip ./.server/* -r
 
@@ -78,7 +78,7 @@ clean: preClean postClean
 all: preClean curseforge modrinth multimc technic server postClean
 
 refresh:
-	cd .minecraft && packwiz refresh
+	cd && packwiz refresh
 
 update-packwiz:
 	go install github.com/packwiz/packwiz@latest
@@ -98,11 +98,11 @@ release-file: build
 	@echo "</details>" >> .build/CHANGELOG.md
 
 run-server:
-	@cd .minecraft && pw refresh
+	@cd && pw refresh
 	@mkdir -p .run
 	@echo "eula=true" > .run/eula.txt
-	@mc-server-icon --icon .minecraft/icon.png --output .run/server-icon.png
-	@cd .run && java -jar ../.minecraft/packwiz-installer-bootstrap.jar ../.minecraft/pack.toml -s server
+	@mc-server-icon --icon icon.png --output .run/server-icon.png
+	@cd .run && java -jar ../packwiz-installer-bootstrap.jar ../pack.toml -s server
 	@if [ ! -f .run/server.jar ]; then \
 		echo "Downloading Fabric server jar..."; \
 		curl -o .run/server.jar https://meta.fabricmc.net/v2/versions/loader/1.21.1/0.16.5/1.0.1/server/jar; \
