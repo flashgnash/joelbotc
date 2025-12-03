@@ -45,6 +45,21 @@ multimc: build
 	@sed -i 's#$(shell pw detect)#{PACKURL}#g' instance.cfg
 	@sed -i 's#${ICONNAME}#{ICONNAME}#g' instance.cfg
 
+prism: build
+	@echo "Making Prism pack"
+	cp icon.png ./${ICONNAME}_icon.png
+	cp ../packwiz-installer-bootstrap.jar ./
+	7z d .build/${PACKNAME}-prism.zip ./* -r
+	7z d .build/${PACKNAME}-prism.zip ./ -r
+	@sed -i 's#{PACKURL}#$(shell pw detect)#g' instance.cfg
+	@sed -i 's#{ICONNAME}#${ICONNAME}#g' instance.cfg
+	7z a .build/${PACKNAME}-prism.zip ./* -r
+	7z a .build/${PACKNAME}-prism.zip ./ -r
+	7z d .build/${PACKNAME}-prism.zip ./.build ./mods ./pack.toml ./index.toml -r
+	rm ./${ICONNAME}_icon.png
+	@sed -i 's#$(shell pw detect)#{PACKURL}#g' instance.cfg
+	@sed -i 's#${ICONNAME}#{ICONNAME}#g' instance.cfg
+
 technic: build
 	@echo "Making Technic pack"
 	@mkdir -p .technic
