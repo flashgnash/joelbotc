@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 34,
+    "description": "Force bell to always use the lower-pitched variant, allows for silencing levers"
+  }
+}

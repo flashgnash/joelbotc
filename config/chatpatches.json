@@ -5,6 +5,7 @@
   "counter": false,
   "boundary": false,
   "chatlog": false,
+  "name": false,
   "nameFormat": "$:",
   "search": false,
   "searchDrafting": false
