@@ -958,6 +958,11 @@ hash = "bbff83f5167e56b5cfd947b314b3193110d94425c2f45b385e19624a7c5346ef"
 metafile = true
 
 [[files]]
+file = "mods/chais-build-tools.pw.toml"
+hash = "3445c4b0b5e1a7a9e99ec38e6203f8d4ae9ca0ada07fd951ac0c16e728254589"
+metafile = true
+
+[[files]]
 file = "mods/chatpatches.pw.toml"
 hash = "d3c63f438a007fc0615987f1cc2108e240a61c22a21ef643912e8591352a417f"
 metafile = true
