@@ -48,7 +48,6 @@ multimc: build
 prism: build
 	@echo "Making Prism pack"
 	cp icon.png ./${ICONNAME}_icon.png
-	cp ../packwiz-installer-bootstrap.jar ./
 	7z d .build/${PACKNAME}-prism.zip ./* -r
 	7z d .build/${PACKNAME}-prism.zip ./ -r
 	@sed -i 's#{PACKURL}#$(shell pw detect)#g' instance.cfg
