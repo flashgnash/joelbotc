@@ -11,3 +11,8 @@ hash = "41da113b48d8c5f834a0c36008e65ae13ef8c36563130bb47e2b24cefda8a1f407434f7b
 [update.modrinth]
 mod-id = "nvQzSEkH"
 version = "PtcHhnOY"
+
+[option]
+optional = true
+default = true 
+description = "Disable if having performance issues"

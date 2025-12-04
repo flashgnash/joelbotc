@@ -1151,12 +1151,12 @@ metafile = true
 
 [[files]]
 file = "mods/bettercommandblockui.pw.toml"
-hash = "e53155acc7b3692b6a2684f6334d50c9e128b1f007ad7b2c8b514e7d1f2500c5"
+hash = "f85f9c758ba397955f008d4a7adecb67e5993adaf38defb942f2de05269b46f2"
 metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "7d1815ec4f2098c4de8b01494373d84da8a5104accd5ae028a2a020595646082"
+hash = "8f9ab0565d7b859a8e401c028f00d67009b7060179ff2f5b633fd92424ac814f"
 metafile = true
 
 [[files]]
@@ -1211,7 +1211,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunky.pw.toml"
-hash = "7fe287ca1bed0ad67f37e62a5816da7b7ae59486102c5e4b7532f0a999444527"
+hash = "14f64df0e72502d7f3a375eb92061c904dc68f8f415e7591a6345ccc12cfaba2"
 metafile = true
 
 [[files]]
@@ -1291,7 +1291,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "60e6720aafdfa3304b086f7465917179485a3b2463230505728bd24d54113de3"
+hash = "4da786c86d4693d9693b3f700823159dcf6d9e6f34e9f4365282b513ab460099"
 metafile = true
 
 [[files]]
@@ -1410,12 +1410,12 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "5284f6d141a990f4ea021c12b851e07102f5cb22743cf7b33be6ad2eb4c8d3f5"
+hash = "4e21f423444b6621411bedd11208233c33bae0fedb7bd9fbb88ce2e380e91387"
 metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "80858e1b1477432110b72aab33348635139d6e8fe7bc05db3ba00651de635720"
+hash = "7f03a1a173a2c50a7e84ebce16f1ad04a38d28680874f7c0963dc5ed9b086261"
 metafile = true
 
 [[files]]
